@@ -4,6 +4,8 @@
 
 - <b>Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL  🚀🔍🌍</b>
   - [Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL](https://github.com/anshuman-dev-seekhoon/Azure-Sentinel-SIEM-Lab/blob/main/README.md)
+-  <b>🔐 Built a Network Traffic Logging & Secure Communication Analysis Tool</b>
+  - [🔐 Network Traffic Logging & Secure Communication Analysis Tool using tcpdump](https://github.com/anshuman-dev-seekhoon/Network-Traffic-Loggingtool)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
