@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>ActiveDirectory Home Lab</b>
-  - [ActiveDirectory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL  🚀🔍🌍</b>
+  - [Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL](https://github.com/anshuman-dev-seekhoon/Azure-Sentinel-SIEM-Lab/blob/main/README.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
