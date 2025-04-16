@@ -5,7 +5,7 @@
 - <b>Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL  🚀🔍🌍</b>
   - [Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL](https://github.com/anshuman-dev-seekhoon/Azure-Sentinel-SIEM-Lab/blob/main/README.md)
 -  <b>🔐 Built a Network Traffic Logging & Secure Communication Analysis Tool</b>
-  - [🔐 Network Traffic Logging & Secure Communication Analysis Tool using tcpdump](https://github.com/anshuman-dev-seekhoon/Network-Traffic-Loggingtool)
+    - [🔐 Network Traffic Logging & Secure Communication Analysis Tool using tcpdump](https://github.com/anshuman-dev-seekhoon/Network-Traffic-Loggingtool)
 
 - <b>Python</b>
   - [Built a ransomware](https://github.com/anshuman-dev-seekhoon/ransomware)
