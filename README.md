@@ -8,7 +8,7 @@
   - [🔐 Network Traffic Logging & Secure Communication Analysis Tool using tcpdump](https://github.com/anshuman-dev-seekhoon/Network-Traffic-Loggingtool)
 
 - <b>Python</b>
-  - [Built a ransomware](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Built a ransomware](https://github.com/anshuman-dev-seekhoon/ransomware)
   - [Built a File Integrity Monitor that on any changes alerts through emails](https://github.com/anshuman-dev-seekhoon/FileIntegrityMonitor)
 
 <h2> 🤳 Connect with me:</h2>
