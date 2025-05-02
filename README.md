@@ -8,6 +8,7 @@
     - [🔐 Network Traffic Logging & Secure Communication Analysis Tool using tcpdump](https://github.com/anshuman-dev-seekhoon/Network-Traffic-Loggingtool)
 
 - <b>Python</b>
+  - [Built my own lightweight NIDS : SniffGuardX](https://github.com/anshuman-dev-seekhoon/sniffguardx)
   - [Built a ransomware](https://github.com/anshuman-dev-seekhoon/ransomware)
   - [Built a File Integrity Monitor that on any changes alerts through emails](https://github.com/anshuman-dev-seekhoon/FileIntegrityMonitor)
 
