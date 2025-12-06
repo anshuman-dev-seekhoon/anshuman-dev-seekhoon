@@ -24,11 +24,12 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Internship and Certifications
 
 - [CompTIA Security+ (Credly)](https://www.credly.com/badges/491fde73-03a3-4983-ba34-bc99d948219e/public_url)  
 - [Google Cybersecurity Professional Certificate (Credly)](https://www.credly.com/badges/cec10266-f53c-43f0-83c1-40fe1cf7e50d/public_url)  
 - [Practical SOC Analyst Associate — TCM Security (Verification)](https://certified.tcm-sec.com/8cb8f799-869b-4216-95dc-604f4106a246?key=1f9e55d59f992090f7d1dd57e6dbae6ef9e18e98a43fe29de1eb97dbb370bb3e)
+-  [CyArt: SOC Intern(Internship certificate)](https://img.sanishtech.com/u/77b2cffadbbf204eaebdd63c54ace22b.jpg)  
 
 > **Note:** Full verification links and badge images are available in the `certificates/` folder of this repo (recommended).
 
@@ -51,6 +52,7 @@
 ## 🤝 Connect with me
 
 - Email: [sanshuman066@gmail.com](mailto:sanshuman066@gmail.com)
+- LinkedIn: [linkedin.com/in/anshuman-singh-46b97131b](https://www.linkedin.com/in/anshuman-singh-46b97131b/)
 
 ---
 
