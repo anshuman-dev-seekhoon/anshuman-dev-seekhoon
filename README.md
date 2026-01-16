@@ -24,6 +24,31 @@
 
 ---
 
+## 🛡️ SOC Case Studies & Incident Analysis
+
+I maintain a dedicated repository where I document SOC-style incident investigations and security case studies that I’ve personally worked through during hands-on training and lab environments.
+
+These are not tool walkthroughs or copy-pasted lab solutions. Each writeup focuses on:
+- how an incident initially appeared,
+- what indicators actually mattered,
+- where assumptions or controls were misleading,
+- and what I would improve from a detection and response perspective.
+
+### 📂 Featured Case Studies
+
+- **Phishing Investigation: When SPF Passes and Everything Looks Fine**  
+  *Targeted executive phishing using a typo-squatted domain that passed SPF validation.*  
+  → Focus: email header analysis, trust assumptions, executive risk, detection gaps  
+  [Read the case study →](https://github.com/anshuman-dev-seekhoon/mycyber-casestudies/blob/main/phishing-spf-bypass/README.md)
+
+- *(More SOC case studies in progress)*
+
+🔗 **All case studies:**  
+https://github.com/anshuman-dev-seekhoon/mycyber-casestudies
+
+
+---
+
 ## 🎓 Internship and Certifications
 
 - [CompTIA Security+ (Credly)](https://www.credly.com/badges/491fde73-03a3-4983-ba34-bc99d948219e/public_url)  
