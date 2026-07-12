@@ -40,7 +40,10 @@ These are not tool walkthroughs or copy-pasted lab solutions. Each writeup focus
   *Targeted executive phishing using a typo-squatted domain that passed SPF validation.*  
   → Focus: email header analysis, trust assumptions, executive risk, detection gaps  
   [Read the case study →](https://github.com/anshuman-dev-seekhoon/mycyber-casestudies/blob/main/phishing-spf-bypass/README.md)
-
+- **DarkTortilla RAT Investigation: From Initial Access to Credential Theft**
+  *Evidence-driven network forensic investigation tracing a multi-stage malware attack using PCAP analysis while distinguishing confirmed observations from analyst inferences.*
+  → Focus: Network forensics, IOC extraction, C2 analysis, PowerShell, Mimikatz, FTP exfiltration, MITRE ATT&CK, detection opportunities
+  [Read the case study →](https://github.com/anshuman-dev-seekhoon/mycyber-casestudies/tree/main/darktortilla-multi-stage-malware-investigation)
 - *(More SOC case studies in progress)*
 
 🔗 **All case studies:**  
